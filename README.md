@@ -16,4 +16,4 @@ Node.js
 **Implemented Features**
 
 Playlists section with playlist cards simulation.
-Visual effects and basic interactions with JavaScript.
+Visual effects and basic interaction with JavaScript request API-artists based on user search Terms
